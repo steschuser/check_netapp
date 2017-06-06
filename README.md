@@ -11,7 +11,7 @@ That way is faster and won't timeout.
 
 Before it can be used, some preliminary setup is requiered:
 
-1) Download NetApp SDK avaible at http://mysupport.netapp.com/NOW/cgi-bin/software
+1) Download NetApp SDK avaible at http://mysupport.netapp.com/NOW/cgi-bin/software?product=NetApp+Manageability+SDK&platform=All+Platforms
 2) Create a monitoring user with read-only access on NetApp system
 3) add proper NetApp API access to this user
 
